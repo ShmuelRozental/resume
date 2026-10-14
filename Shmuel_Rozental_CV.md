@@ -19,13 +19,14 @@ Backend Software Engineer with hands-on experience developing backend services f
 
 ## EXPERIENCE
 
-**Backend Software Engineer | IDF, Israel**
+**Backend Software Engineer | Unit 8200, IDF**
 *Jan 2025 – Present*
 
 * Developed and maintained backend services for geospatial imagery processing, data retrieval, and delivery.
 * Conducted performance testing and benchmarking of backend services, analyzing latency, throughput, and scaling behavior under concurrent workloads.
 * Investigated request-routing strategies, including session stickiness, and evaluated pod-scaling configurations to understand their impact on load distribution and service performance.
 * Identified and fixed a JPEG2000 color interpretation issue in GDAL, contributing the fix upstream in [PR #15082](https://github.com/OSGeo/gdal/pull/15082). The fix enabled migration from Kakadu 6 to Kakadu 8, facilitating an image-conversion workflow that reduced processing time from 10 minutes to 2 minutes for certain satellite imagery in testing.
+
 
 ## PROFESSIONAL TRAINING
 
